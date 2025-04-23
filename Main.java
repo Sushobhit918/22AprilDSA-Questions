@@ -1,3 +1,4 @@
+//1
 // import java.util.*;
 // public class Main
 // {
@@ -24,7 +25,7 @@
 // 		System.out.print("height is:"+height(root));
 // 	}
 // }
-// -------count nodes-----//
+// 2-------count nodes-----//
 // import java.util.*;
 // public class Main
 // {
@@ -65,7 +66,7 @@
 // 	System.out.print(count(root));
 // 	}
 // }
-//searching 
+//3 searching 
 // import java.util.*;
 // public class Main
 // {
@@ -94,6 +95,7 @@
 //         System.out.print(check(root,target));
 // 	}
 // }
+//4
 // import java.util.*;
 // public class Main
 // {
@@ -115,6 +117,7 @@
 		
 // 	}
 // }
+//5
 // import java.util.*;
 // public class Main
 // {
@@ -155,6 +158,7 @@
 // 	System.out.print(count(root));
 // 	}
 // }
+//6
 // import java.util.*;
 // public class Main
 // {
@@ -212,7 +216,7 @@
 // 	print(root,3);
 // 	}
 // }
-//sum
+//7 sum
 // import java.util.*;
 // public class Main
 // {
@@ -240,6 +244,7 @@
 // System.out.print(ans);
 // 	}
 // }
+//8
 import java.util.*;
 public class Main
 {
