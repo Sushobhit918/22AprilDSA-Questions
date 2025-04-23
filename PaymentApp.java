@@ -1,3 +1,4 @@
+//1
 interface Secure {
     boolean authenticate(String credentials);
 }
